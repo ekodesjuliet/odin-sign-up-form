@@ -4,7 +4,7 @@
 
 This project offers a hands-on opportunity to build a mock-up sign-up form. Using JavaScript for form validation, HTML for structuring the form, and intermediate CSS techniques like CSS units, positioning, and advanced selectors, you'll create a functional sign-up experience. The form will include basic validations for required fields, catering to hikers seeking a community for their hiking adventures.
 
-Come and check my design [here](https://krig6.github.io/odin-sign-up-form/)!
+Come and check my design [here](https://ekodesjuliet.github.io/odin-sign-up-form/)!
 
 ## Sample
 
